@@ -1,5 +1,5 @@
 # Refugee-info-bot
 A Telegram bot-aggregator with useful information for refugees from Ukraine.
-Ability to update bot data via Google Spreadsheet. Convenient and easy for unexperienced administrators (implemented via Google Sheets API)
+Implemented using Aiogram. Feature: updating bot data via Google Spread API.
 
 #### An old project backup
